@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+.divs{
+	position:relative;
+background-color: rgb(255, 255, 128);
+background: transparent;
+ backdrop-filter: blur(5px);
+height: 450px;
+width: 400px;
+border-radius: 20px;
+border: solid gray;
+top:150px;
+}
+.submit
+{
+	
+	background-color:blue;
+	padding: 15px;
+	width: 100px;
+	border-radius: 20px;
+	color: white;
+}
+.submit:hover{
+	background-color:green;
+}
+input{
+	padding: 7px;
+}
+.cls{
+	position: absolute;
+}
